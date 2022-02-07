@@ -1,8 +1,8 @@
-package com.platzi.javatests.util;
+package com.test.javatests.util;
 
 import org.junit.Test;
 
-import static com.platzi.javatests.util.PasswordUtil.SecurityLevel.*;
+import static com.test.javatests.util.PasswordUtil.SecurityLevel.*;
 import static org.junit.Assert.*;
 
 public class PasswordUtilTest {

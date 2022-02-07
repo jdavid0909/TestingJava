@@ -1,4 +1,4 @@
-package com.platzi.javatests.util;
+package com.test.javatests.util;
 
 public class PasswordUtil {
 
